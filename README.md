@@ -1,3 +1,2 @@
-# New project
-this project was created from local system
-created by mujahid chouhan.
+store images folder images into src--assests folder
+and then only replace the respective files 
